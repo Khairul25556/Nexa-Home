@@ -1,2 +1,0 @@
-Nexa Home is a one-page website that showcases a variety of electronic products for home use. It highlights features of modern home devices, offering an easy-to-navigate layout. This website is designed to provide clear information about each product for users looking to enhance their home with electronics.
-Visit Nexa-Home: https://khairul25556.github.io/Nexa-Home/
